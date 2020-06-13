@@ -17,10 +17,6 @@ Civil Engineer. MSc. Industrial Engineering. Data Processing. Matematica Modelin
 
 ## Projects:
 public projects and studies.
-* **Nononono** htt://
-* **Nononono:** htt://
-* **Nononono:** htt://
-* **Nononono:** htt://
 
 ---
 
