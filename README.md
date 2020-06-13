@@ -5,21 +5,20 @@
 </p>
 
 # Hermes Luiz Bolinelli Junior
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Civil Engineer & Data Scientist*</sub>
 
-Engenheiro Civil. Mestrado Engenharia Industrial. Processmento de Dados. Modelagem Mayt
+Civil Engineer. MSc. Industrial Engineering. Data Processing. Matematica Modeling. Artificial Intelligence.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** C, C++, Fortran, Python, R, Machine Learning, Mathematical Modeling. Civil Engineering
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+/* [Blog]()
+* [LinkedIn](https://www.linkedin.com/in/hermes-junior-60445114/)
+/* [Medium]()
 
 
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
+## Projects:
+public projects and studies.
 * **Nononono** htt://
 * **Nononono:** htt://
 * **Nononono:** htt://
