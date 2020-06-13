@@ -12,9 +12,7 @@ Civil Engineer. MSc. Industrial Engineering. Data Processing. Matematica Modelin
 **Background in:** C, C++, Fortran, Python, R, Machine Learning, Mathematical Modeling. Civil Engineering
 
 **Links:**
-/* [Blog]()
 * [LinkedIn](https://www.linkedin.com/in/hermes-junior-60445114/)
-/* [Medium]()
 
 
 ## Projects:
