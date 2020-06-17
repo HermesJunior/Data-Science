@@ -19,6 +19,6 @@ Civil Engineer. MSc. Industrial Engineering. Data Processing. Matematica Modelin
 public projects and studies.
 
 * **Análise dos dados AirBnB cidade Bérgamo, Itália:** https://bit.ly/3ftyzd4
-* **Análise Imoveis SP (2017):** https://bitlybr.com/tXIeahJ
+* **Análise Imoveis SP (2017):** https://github.com/HermesJunior/DM
 ---
 
