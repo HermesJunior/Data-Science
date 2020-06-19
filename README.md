@@ -20,5 +20,6 @@ public projects and studies.
 
 * **Análise dos dados AirBnB cidade Bérgamo, Itália:** https://bit.ly/3ftyzd4
 * **Análise Imoveis SP (2017):** https://github.com/HermesJunior/DM
+* **Análise Violência no Rio de Janeiro:** https://bit.ly/2YbgZ7U
 ---
 
