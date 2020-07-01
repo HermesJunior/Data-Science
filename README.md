@@ -22,5 +22,6 @@ public projects and studies.
 * **Análise Imoveis SP (2017):** https://github.com/HermesJunior/DM
 * **Análise Violência no Rio de Janeiro:** https://bit.ly/2YbgZ7U
 * **Análise Covid-19:** https://bit.ly/2Vvkq7t
+* **Análise Fraude em Cartões de Crédito:** https://bit.ly/3eMbQJq
 ---
 
