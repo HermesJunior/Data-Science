@@ -23,5 +23,6 @@ public projects and studies.
 * **Análise Violência no Rio de Janeiro:** https://bit.ly/2YbgZ7U
 * **Análise Covid-19:** https://bit.ly/2Vvkq7t
 * **Análise Fraude em Cartões de Crédito:** https://bit.ly/3eMbQJq
+* **Análise Churn Prediction P/ Empresa de Telecomunicações:** https://bit.ly/32nUTSg
 ---
 
