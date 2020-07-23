@@ -7,7 +7,7 @@
 # Hermes Luiz Bolinelli Junior
 <sub>*Civil Engineer & Data Scientist*</sub>
 
-Civil Engineer. MSc. Industrial Engineering. Data Processing. Matematica Modeling. Artificial Intelligence.
+Civil Engineer. MSc. Industrial Engineering. Data Processing. Mathematical Modeling. Artificial Intelligence.
 
 **Background in:** C, C++, Fortran, Python, R, Machine Learning, Mathematical Modeling. Civil Engineering
 
