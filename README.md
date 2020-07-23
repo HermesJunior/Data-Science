@@ -18,11 +18,11 @@ Civil Engineer. MSc. Industrial Engineering. Data Processing. Mathematical Model
 ## Projects:
 public projects and studies.
 
-* **Análise dos dados AirBnB cidade Bérgamo, Itália:** https://bit.ly/3ftyzd4
-* **Análise Imoveis SP (2017):** https://github.com/HermesJunior/DM
-* **Análise Violência no Rio de Janeiro:** https://bit.ly/2YbgZ7U
-* **Análise Covid-19:** https://bit.ly/2Vvkq7t
-* **Análise Fraude em Cartões de Crédito:** https://bit.ly/3eMbQJq
-* **Análise Churn Prediction P/ Empresa de Telecomunicações:** https://bit.ly/32nUTSg
+* **Analysis of data AirBnB - Bergamo, Italy:** https://bit.ly/3ftyzd4
+* **Real Estate Analysis - São Paulo, Brazil:** https://github.com/HermesJunior/DM
+* **Analysis of Violence - Rio de Janeiro, Brazil:** https://bit.ly/2YbgZ7U
+* **Covid-19 Analysis:** https://bit.ly/2Vvkq7t
+* **Credit Card Fraud Analysis:** https://bit.ly/3eMbQJq
+* **Churn Prediction Analysis for Telecommunications Company:** https://bit.ly/32nUTSg
 ---
 
