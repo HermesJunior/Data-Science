@@ -9,7 +9,7 @@
 
 Civil Engineer. MSc. Industrial Engineering. Data Processing. Mathematical Modeling. Artificial Intelligence.
 
-**Background in:** C, C++, Fortran, Python, R, Machine Learning, Mathematical Modeling. Civil Engineering
+**Background in:** C, C++, Fortran, COBOL, Python, R, Machine Learning, Mathematical Modeling. Fuzzy Logic. Civil Engineering
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/hermes-junior-60445114/)
