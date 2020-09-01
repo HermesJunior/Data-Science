@@ -24,5 +24,8 @@ public projects and studies.
 * **Covid-19 Analysis:** https://bit.ly/2Vvkq7t
 * **Credit Card Fraud Analysis:** https://bit.ly/3eMbQJq
 * **Churn Prediction Analysis for Telecommunications Company:** https://bit.ly/32nUTSg
+
+---------------------------------------------------------------------------------------
+* **OFF-TOPIC: The Mandelbrot set:** https://bit.ly/3lDmd5T
 ---
 
